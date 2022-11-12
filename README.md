@@ -39,7 +39,7 @@
 - 本地测速
     - [stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn)
     - [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest)
-    - [nodescatch](https://github.com/bulianglin/demo)
+    - [nodescatch](https://github.com/bulianglin/demo)     [个人组件更新版](https://leon.lanzoub.com/ixESG0fsdcla)
 - 在线测速(基于上面本地测速搭建的服务)
     - [zeroteam](https://speedtest.zeroteam.top/)
     - ~~[品云](http://gz.cloudtest.cc/)~~
