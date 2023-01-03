@@ -1,4 +1,4 @@
-##### 更新时间2023-01-01 12:21:52 #####
+##### 更新时间2023-01-03 12:21:57 #####
 
 151.101.1.69	stackoverflow.com
 151.101.1.69	stackexchange.com
@@ -9,7 +9,7 @@
 104.24.176.7	cdnjs.com
 104.17.24.14	cdnjs.cloudflare.com
 104.80.92.84	sdlc-esd.oracle.com
-23.62.160.87	download.oracle.com
+104.119.184.115	download.oracle.com
 104.16.168.131	hcaptcha.com
 104.16.168.131	www.hcaptcha.com
 104.16.168.131	assets.hcaptcha.com
@@ -22,7 +22,7 @@
 172.217.8.164	api.recaptcha.net
 172.217.1.36	api-verify.recaptcha.net
 172.217.5.4	mailhide.recaptcha.net
-172.253.112.94	www.recaptcha.net
+172.253.113.94	www.recaptcha.net
 162.159.128.233	discord.com
 162.159.129.233	discordapp.com
 162.159.128.232	dl.discordapp.net
@@ -37,8 +37,8 @@
 104.112.30.74	www.lastpass.com
 13.107.219.40	logincdn.msauth.net
 13.107.237.66	acctcdn.msauth.net
-20.190.151.7	login.live.com
-13.105.74.49	storage.live.com
+40.126.7.35	login.live.com
+40.90.133.105	storage.live.com
 13.107.42.12	public.bn.files.1drv.com
 184.86.254.33	storeedgefd.dsx.mp.microsoft.com
 23.39.61.233	store-images.s-microsoft.com
@@ -53,15 +53,15 @@
 52.216.140.220	github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.98.27	github-production-user-asset-6210df.s3.amazonaws.com
 140.82.112.4	github.com
-140.82.112.4	www.github.com
-140.82.112.26	alive.github.com
+140.82.114.4	www.github.com
+140.82.113.26	alive.github.com
 140.82.114.21	collector.githubapp.com
 185.199.108.154	github.githubassets.com
 140.82.114.18	help.github.com
-140.82.113.21	central.github.com
+140.82.112.22	central.github.com
 13.107.42.16	pipelines.actions.githubusercontent.com
 140.82.113.21	collector.github.com
-140.82.114.17	github.community
+140.82.113.18	github.community
 185.199.108.133	support.github.com
 185.199.108.153	assets-cdn.github.com
 185.199.108.153	pages.github.com
@@ -91,5 +91,5 @@
 185.199.108.133	github.map.fastly.net
 185.199.108.133	desktop.githubusercontent.com
 52.224.38.193	github.dev
-142.251.111.95	translate.googleapis.com
+173.194.209.95	translate.googleapis.com
 142.251.163.100	translate.google.com
