@@ -1,5 +1,5 @@
-##### 更新时间2023-02-05 12:21:50 #####
-
+##### 更新时间2023-02-07 12:22:29 #####
+13.107.237.41	logincdn.msauth.net
 151.101.1.69	stackoverflow.com
 151.101.1.69	stackexchange.com
 151.101.1.69	cdn.sstatic.net
@@ -9,7 +9,7 @@
 104.24.176.7	cdnjs.com
 104.17.24.14	cdnjs.cloudflare.com
 104.80.92.84	sdlc-esd.oracle.com
-69.192.208.84	download.oracle.com
+23.49.100.106	download.oracle.com
 104.16.168.131	hcaptcha.com
 104.16.168.131	www.hcaptcha.com
 104.16.168.131	assets.hcaptcha.com
@@ -22,7 +22,7 @@
 172.217.8.164	api.recaptcha.net
 172.217.1.36	api-verify.recaptcha.net
 172.217.5.4	mailhide.recaptcha.net
-172.253.115.94	www.recaptcha.net
+142.250.191.163	www.recaptcha.net
 162.159.128.233	discord.com
 162.159.129.233	discordapp.com
 162.159.128.232	dl.discordapp.net
@@ -35,10 +35,9 @@
 162.159.128.234	discordcdn.com
 184.31.196.178	lastpass.com
 104.98.85.83	www.lastpass.com
-13.107.237.51	logincdn.msauth.net
 13.107.237.40	acctcdn.msauth.net
-20.190.154.17	login.live.com
-20.135.6.9	storage.live.com
+20.190.154.16	login.live.com
+40.90.130.192	storage.live.com
 13.107.42.12	public.bn.files.1drv.com
 23.62.165.205	storeedgefd.dsx.mp.microsoft.com
 23.50.125.135	store-images.s-microsoft.com
@@ -52,8 +51,8 @@
 140.82.112.18	status.github.com
 3.5.10.213	github-production-release-asset-2e65be.s3.amazonaws.com
 3.5.10.182	github-production-user-asset-6210df.s3.amazonaws.com
-140.82.113.4	github.com
-140.82.113.3	www.github.com
+140.82.114.3	github.com
+140.82.112.3	www.github.com
 140.82.114.26	alive.github.com
 140.82.114.21	collector.githubapp.com
 185.199.108.154	github.githubassets.com
@@ -61,7 +60,7 @@
 140.82.112.21	central.github.com
 13.107.42.16	pipelines.actions.githubusercontent.com
 140.82.113.22	collector.github.com
-140.82.112.18	github.community
+140.82.114.18	github.community
 185.199.108.133	support.github.com
 185.199.108.153	assets-cdn.github.com
 185.199.108.153	pages.github.com
@@ -75,7 +74,7 @@
 140.82.114.10	codeload.github.com
 140.82.114.10	nodeload.github.com
 3.5.3.117	github-com.s3.amazonaws.com
-3.5.17.0	github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.52.233	github-production-repository-file-5c1aeb.s3.amazonaws.com
 151.101.1.194	github.global.ssl.fastly.net
 192.0.66.2	github.blog
 185.199.108.133	avatars.githubusercontent.com
@@ -91,5 +90,5 @@
 185.199.108.133	github.map.fastly.net
 185.199.108.133	desktop.githubusercontent.com
 52.224.38.193	github.dev
-142.250.191.202	translate.googleapis.com
-142.251.163.100	translate.google.com
+142.250.190.74	translate.googleapis.com
+142.250.191.238	translate.google.com
