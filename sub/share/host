@@ -1,4 +1,4 @@
-##### 更新时间2023-04-03 12:20:30 #####
+##### 更新时间2023-04-05 12:20:30 #####
 
 151.101.1.69	stackoverflow.com
 151.101.1.69	stackexchange.com
@@ -53,11 +53,11 @@
 3.5.10.154	github-production-release-asset-2e65be.s3.amazonaws.com
 3.5.25.148	github-production-user-asset-6210df.s3.amazonaws.com
 140.82.114.4	github.com
-140.82.112.4	www.github.com
+140.82.113.4	www.github.com
 140.82.114.25	alive.github.com
 140.82.114.21	collector.githubapp.com
 185.199.108.154	github.githubassets.com
-140.82.112.17	help.github.com
+140.82.113.18	help.github.com
 140.82.112.22	central.github.com
 13.107.42.16	pipelines.actions.githubusercontent.com
 140.82.112.22	collector.github.com
@@ -73,7 +73,7 @@
 185.199.108.154	docs.github.com
 140.82.112.29	githubapp.com
 140.82.112.10	codeload.github.com
-140.82.112.10	nodeload.github.com
+140.82.112.9	nodeload.github.com
 52.216.43.201	github-com.s3.amazonaws.com
 3.5.11.154	github-production-repository-file-5c1aeb.s3.amazonaws.com
 151.101.1.194	github.global.ssl.fastly.net
@@ -91,5 +91,5 @@
 185.199.108.133	github.map.fastly.net
 185.199.108.133	desktop.githubusercontent.com
 52.224.38.193	github.dev
-172.217.4.74	translate.googleapis.com
+172.253.63.95	translate.googleapis.com
 172.253.62.100	translate.google.com
